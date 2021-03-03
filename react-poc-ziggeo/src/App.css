@@ -1,0 +1,22 @@
+#root {
+  height: 100vh
+}
+
+div.video-list {
+  cursor: pointer;
+}
+div.video-list:hover {
+  color:#f1faee;
+  background-color: #457b9d;
+}
+
+div.video-player {
+  border: 1px solid green;
+}
+
+.active {
+  color: blue;
+}
+div.record-player {
+  border: 1px solid red;
+}
